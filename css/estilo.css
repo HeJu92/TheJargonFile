@@ -1,0 +1,32 @@
+body{
+    background-color: hsl(198, 50%, 85%);
+    font-family: sans-serif;
+}
+h1{
+    font-size: 3rem;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+h2{
+    font-size: 2rem;
+    background-color: lightseagreen;
+}
+h3{
+    font-size: 1.5rem;
+    color: white;
+    background-color: aquamarine;
+}
+blockquote{
+    font-size: 16px;
+    font-style: oblique;
+    font-family: Arial, Helvetica, sans-serif;
+}
+pre{
+    background-color: white;
+    font-weight: bolder;
+}
+address{
+    text-align: right;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
